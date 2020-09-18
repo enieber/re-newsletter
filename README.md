@@ -10,6 +10,9 @@ Add link in the issue open.
 
 This project has inpiration in the [Brazil Weekly](https://github.com/braziljs/weekly).
 
-## Signup
+## [Signup](https://www.getrevue.co/profile/re-newsletter)
 
-[WIP](https://github.com/enieber/re-newsletter/issues/2)
+To signup, is only click in link: https://www.getrevue.co/profile/re-newsletter and add your email to receive all weekle the links.
+
+- No span
+- This newsletter only send mail to related to this project.
