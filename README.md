@@ -1,6 +1,6 @@
 # Re Newsletter
 
-Re Newsletter is created to bring together news or nice findings about ReasonML, OCaml and ReScript.
+Re Newsletter was created to bring together news or nice findings about ReasonML, OCaml and ReScript.
 
 ## To contribuite
 
@@ -8,7 +8,7 @@ Add a link in the open issue.
 
 ## Inspiration
 
-This project took inspiration fromk [Braziljs's Weekly](https://github.com/braziljs/weekly).
+This project took inspiration from [BrazilJs's Weekly](https://github.com/braziljs/weekly).
 
 ## [Sign up](https://www.getrevue.co/profile/re-newsletter)
 
