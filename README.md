@@ -1,18 +1,18 @@
 # Re Newsletter
 
-Re Newslatter is created to union news about ReasonML, OCaml and ReScript.
+Re Newsletter is created to bring together news or nice findings about ReasonML, OCaml and ReScript.
 
 ## To contribuite
 
-Add link in the issue open.
+Add a link in the open issue.
 
 ## Inspiration
 
-This project has inpiration in the [Brazil Weekly](https://github.com/braziljs/weekly).
+This project took inspiration fromk [Braziljs's Weekly](https://github.com/braziljs/weekly).
 
-## [Signup](https://www.getrevue.co/profile/re-newsletter)
+## [Sign up](https://www.getrevue.co/profile/re-newsletter)
 
-To signup, is only click in link: https://www.getrevue.co/profile/re-newsletter and add your email to receive all weekle the links.
+To sign up click in tge link https://www.getrevue.co/profile/re-newsletter and add your email to receive the newsletter every week.
 
 - No span
-- This newsletter only send mail to related to this project.
+- We'll send info only related to ReasonML
