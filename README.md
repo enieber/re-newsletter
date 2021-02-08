@@ -1,5 +1,7 @@
 # Re Newsletter
 
+![Logo of ReNewsletter](re-newsletter.png)
+
 Re Newsletter was created to bring together news or nice findings about ReasonML, OCaml and ReScript.
 
 ## To contribuite
